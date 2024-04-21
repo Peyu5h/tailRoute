@@ -14,7 +14,7 @@ const index = () => {
           className="bg-black  px-3 py-2 rounded-md"
           onPress={() => setState(state + 1)}
         >
-          <Text className="text-white">Click</Text>
+          <Text className="text-white">LOL</Text>
         </TouchableOpacity>
         <Text className="text-lg">{state}</Text>
       </SafeAreaView>
